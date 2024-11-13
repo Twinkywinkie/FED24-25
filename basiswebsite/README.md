@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.artis.nl/nl / de Site van Artis
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home
-  <img src="Home_Artis.PNG" width="375px" alt="Thuispagina van Artis">
+  <img src="/readme-images/Home_Artis.PNG" width="375px" alt="Thuispagina van Artis">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Dieren   
-  <img src="Dieren_Artis.PNG" width="375px" alt="Dieren in Artis">
+  <img src="/readme-images/Dieren_Artis.PNG" width="375px" alt="Dieren in Artis">
  
 </details>
 
