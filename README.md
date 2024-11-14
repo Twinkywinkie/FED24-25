@@ -56,7 +56,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  - Artis heeft een extra navigatie die niet te zien is als je geen screenreader gebruikt, hierin kun je in 1 keer naar zoeken, de content of de footer van de pagina.
+   
+ 
 </details>
 
 
