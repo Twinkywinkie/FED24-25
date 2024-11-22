@@ -1,0 +1,36 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+html {
+	background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: omnes-pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 10px;
+}
+

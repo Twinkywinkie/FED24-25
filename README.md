@@ -57,7 +57,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   - Artis heeft een extra navigatie die niet te zien is als je geen screenreader gebruikt, hierin kun je in 1 keer naar zoeken, de content of de footer van de pagina.
-   
+  - Het is wel lastig navigeren door de pagina, omdat er altijd een verborgen cookies menu is waar je doorheen moet.
+  - 
  
 </details>
 
@@ -69,10 +70,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-heel.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-section.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -95,10 +96,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Ocean      | Quincy         | student 3    | student 4        |
+  | ---        | ---            | ---          | ---              |
+  | Navbar     | Sections       | en ik dit    | en dan ik dat    |
+  | en dat ook | Carousel       | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
