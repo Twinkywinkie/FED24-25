@@ -98,9 +98,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Ocean      | Quincy         | student 3    | student 4        |
   | ---        | ---            | ---          | ---              |
-  | Navbar     | Sections       | en ik dit    | en dan ik dat    |
+  | Navbar     | Navbar         | en ik dit    | en dan ik dat    |
   | en dat ook | Carousel       | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ...        | sections.      | ...          | ...              |
 
 
   ### Verslag van meeting
