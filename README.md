@@ -106,10 +106,36 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Hier is de feedback in eenvoudigere taal:  
+
+- Eerste blokje 
+  - Gebruik een section element met twee article elementen erin.  
+  - Pas met CSS de richting van de elementen aan (bijvoorbeeld via flexbox) zodat het goed werkt op verschillende schermgroottes.  
+
+- Alt-teksten:  
+  - Schrijf duidelijke alt-teksten voor je afbeeldingen.  
+  - Dit helpt mensen die een screenreader gebruiken om te begrijpen wat er op je site staat.  
+
+- Netjes coderen:  
+  - Let op dat je code netjes is ingesprongen. Dit maakt het makkelijker te lezen en te begrijpen.  
+
+- Carousel:  
+  - Maak je carousel met scroll-snapping en flexbox.  
+  - Zoek op CodePen naar voorbeelden als je vastloopt.  
+
+- Data-element:  
+  - Gebruik het data element als je bepaalde gegevens in je site wilt toevoegen.  
+  - Kijk op MDN Web Docs voor uitleg.  
+
+- Footer formulier:  
+  - Voor het formulier in de footer kun je een form element gebruiken.  
+
+- Header:  
+  - Gebruik een details element voor uitklapbare menu’s of andere interactieve dingen.  
+  - Houd er rekening mee dat het lastig kan zijn om dit netjes te stijlen.  
+
+- Handige bronnen:  
+  - Kijk op MDN Web Docs en CodePen voor meer uitleg en voorbeelden.  
 
 </details>
 
