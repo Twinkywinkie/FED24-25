@@ -5,18 +5,28 @@
   box-sizing:border-box;  
 }
 
-
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-background:#ffffffff;
+	--color-text-1:#000000ff;
+	--color-text-2:#c4e3bdff;
+	--color-text-3:#001d07ff;
+	--color-text-4:#012b38;
+	--color-textbox-1:#001d07ff;
+	--color-textbox-2:#ffffffff;
+	--color-textbox-3:#202020ff;
+	--color-textbox-4:#c4e3bdff;
+	--color-textbox-5:#efeadcff;
+	--color-textbox-6:#ff00ffff;
+	--color-background-box-1:#f0f1ecff;
+	--color-background-box-2:#c4e3bdff;
+	--color-background-box-3:#001d07ff;
+	--color-button-1:#000000ff;
+	--color-button-2:#001d07ff;
+	--color:#ffff00ff;
 }
 
 
@@ -31,6 +41,16 @@ html {
 	background-color: var(--color-background);
     color: var(--color-text);
     font-family: omnes-pro, Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 10px;
+    font-size: 1em;
 }
 
+nav li {
+text-decoration: none;
+
+}
+
+nav button {
+	display: grid;
+	grid-row: autoxs;
+	
+}
