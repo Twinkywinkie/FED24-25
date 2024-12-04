@@ -155,20 +155,18 @@ Hier is de feedback in eenvoudigere taal:
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Ocean          | Quincy             | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Responsive.    | Css.               | en ik dit    | en dan ik dat    |
+  | positionering  |                    | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - @media (preders-reduced-motion:no-prefrence) voor toegankelijkheid
+  - Css clippy voor de randen
 
 </details>
 

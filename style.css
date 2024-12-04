@@ -39,18 +39,18 @@
 
 html {
 	background-color: var(--color-background);
-    color: var(--color-text);
+    color: var(--color-text-1);
     font-family: omnes-pro, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 1em;
 }
 
-nav li {
-text-decoration: none;
-
+nav ul {
+	display: flex;
+	flex-direction: row;
+	list-style: none;
 }
 
 nav button {
-	display: grid;
-	grid-row: autoxs;
-	
+
+
 }
