@@ -44,13 +44,106 @@ html {
     font-size: 1em;
 }
 
-nav ul {
+header {
+	align-items: center;
+    background-color: var(--color-background);
+    color: var(--color-text-1);
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    z-index: 90;
+}
+
+nav {
+    display: grid;
+	position: relative;
+	grid-template-columns: repeat(12, minmax(0, 1fr));
+	grid-column-gap: 16px;
+	align-items: center;
+	width: 100%;
+
+    
+}
+
+nav > svg:first-of-type  {
+	width: 6em;
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    grid-column: 5 / 9;
+    grid-row: 1;
+    justify-content: center;
+    z-index: 9;
+}
+
+nav > ul:nth-of-type(1) {
+    display: flex;
+	justify-content: space-evenly;
+    gap: 1px;
+    grid-column: span 12;
+    grid-row: 2;
+    position: relative;
+	padding: 0;
+	width: 100%;
+}
+
+nav > ul:nth-of-type(1) button {
+	display: flex;
+	background-color: var(--color-background-box-1);
+	border: 0;
+
+
+}
+
+nav > ul:nth-of-type(1) li:nth-of-type(1) button {
+	border-bottom-left-radius: 4em;
+    border-top-left-radius: 4em;
+	padding: 16px;
+	position: relative;
+}
+
+nav > ul:nth-of-type(1) li:nth-of-type(1) button::after {
+	content: "";
+	
+	width: 14px;
+    background: var(--color-background-box-1);
+    clip-path: path("M0,1 H0.016 C0.305,1,0.551,0.941,0.598,0.861 L0.992,0.194 C1,0.092,0.774,0,0.41,0 H0 V1");
+    -webkit-clip-path: path("M0,1 H0.016 C0.305,1,0.551,0.941,0.598,0.861 L0.992,0.194 C1,0.092,0.774,0,0.41,0 H0 V1"); /* Voor WebKit-browsers */
+  }
+
+
+nav > ul:nth-of-type(1) li:nth-of-type(2) button {
+
+	padding: 16px;
+}
+
+nav > ul:nth-of-type(1) li:nth-of-type(3) button {
+	border-bottom-right-radius: 4em;
+    border-top-right-radius: 4em;
+	padding: 16px;
+}
+nav ul:nth-of-type(2) {
+	display: flex;
+	align-items: center;
+	top: 0;
+    bottom: 0;
+    grid-column: 1 / 13;
+    grid-row: 1;
+    justify-content: space-between;
+	
+;
+}
+
+
+li:nth-of-type(3) {
+	position: relative;
+	right:0;
+}
+
+
+ nav ul {
 	display: flex;
 	flex-direction: row;
 	list-style: none;
-}
-
-nav button {
-
-
 }
